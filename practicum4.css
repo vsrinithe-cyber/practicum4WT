@@ -1,0 +1,30 @@
+
+/* External CSS */
+
+* {
+    box-sizing: border-box;
+}
+
+button {
+    font-size: 15px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.container {
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+h2 {
+    border-left: 4px solid #d6a85c;
+    padding-left: 10px;
+}
+
+.book:hover {
+    background-color: #dce8ee;
+    border-color: #263c50;
+}
+
+.subscription:hover {
+    background-color: #f9e9c9;
+}
